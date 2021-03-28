@@ -11,10 +11,6 @@
     font-family: arabic;
 }
 @font-face{
-    src: url(font/FontARABIC.ttf);
-    font-family: FontINDIA;
-}
-@font-face{
     src: url(font/FontHead.TTF);
     font-family: FontIH;
 }
